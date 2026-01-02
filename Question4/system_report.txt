@@ -1,0 +1,1 @@
+Linux 9790afdadaf1 6.5.0-1024-aws #24~22.04.1-Ubuntu SMP Thu Jul 18 10:43:12 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
