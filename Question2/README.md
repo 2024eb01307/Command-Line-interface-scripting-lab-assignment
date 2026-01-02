@@ -1,4 +1,4 @@
-<img width="1919" height="256" alt="image" src="https://github.com/user-attachments/assets/a9249438-41c9-42e9-85b5-c135a5c54c42" />1. Project Workspace Setup
+1. Project Workspace Setup
 
 Commands used:
 mkdir documents
